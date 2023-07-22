@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VesetoQnusheva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm @VesetoQnusheva
+👀 I am interested in engineering tester, banking and financial institutions.
+🌱 I am currently studying for Manual and Automatic Tester. In SoftUni Software University.
+💞️ Looking to collaborate on QA engineering.
+📫 How to reach me: write me or use email: Bug_tracker@yahoo.com
 
 <!---
 VesetoQnusheva/VesetoQnusheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
